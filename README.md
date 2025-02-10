@@ -121,14 +121,6 @@ Me chamo André Buzzo, tenho 36 anos e sou natural do Paraná. Concluí a faculd
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Tailwind" 
     title="Tailwind"
     width="30px" 
